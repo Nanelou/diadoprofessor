@@ -14,4 +14,4 @@ document.addEventListener("DOMContentLoaded", function () {
         Obrigado por inspirarem, orientarem e ajudarem a construir um futuro melhor para todos. 
         Feliz Dia dos Professores!";
     });
-});
+
