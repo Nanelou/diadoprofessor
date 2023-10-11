@@ -4,12 +4,12 @@ body {
 }
 
 h1 {
-    color: #007BFF;
+    color: hsl(211, 79%, 53%);
 }
 
 button {
-    background-color: #007BFF;
-    color: white;
+    background-color: #15ff00;
+    color: #a62323;
     padding: 10px 20px;
     border: none;
     cursor: pointer;
