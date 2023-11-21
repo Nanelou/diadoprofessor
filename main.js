@@ -2,7 +2,7 @@ var mensagem = document.querySelector("#mensagem");
 var mostrarMensagemBtn = document.querySelector("#mostrarMensagem");
 
 mostrarMensagemBtn.addEventListener("click", function () {
-    alert("Queridos professores, hoje é o dia de celebrar vocês, " +
+    alert ("Queridos professores, hoje é o dia de celebrar vocês, " +
         "os verdadeiros heróis que moldam mentes e inspiram sonhos. " +
         "Em cada sala de aula, vocês desempenham um papel vital na formação do futuro. " +
         "Seu comprometimento, paixão e dedicação são admiráveis e dignos de reconhecimento. " +
