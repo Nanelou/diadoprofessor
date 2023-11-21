@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
-    var mensagem = document.getElementById("mensagem");
-    var mostrarMensagemBtn = document.getElementById("mostrarMensagem");
+    var mensagem = document.querySelector("mensagem");
+    var mostrarMensagemBtn = document.querySelector("mostrarMensagem");
 
     mostrarMensagemBtn.addEventListener("click", function () {
         mensagem.innerHTML = "Queridos professores, hoje é o dia de celebrar vocês, " +
